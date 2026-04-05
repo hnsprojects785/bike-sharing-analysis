@@ -1,3 +1,0 @@
-https://[username]-bike-sharing-dashboard.streamlit.app
-
-(Isi dengan URL Streamlit Cloud setelah di-deploy)
