@@ -27,11 +27,6 @@ submission/
 
 ## Setup Environment
 
-### Prasyarat
-
-- Python 3.9 atau lebih baru
-- pip (package manager Python)
-
 ### Langkah Instalasi
 
 1. **Clone atau ekstrak folder submission ini.**
